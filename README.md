@@ -15,7 +15,7 @@ platform :ios, '12.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'ViSenzeAnalytics', '~>0.2.0'
+    pod 'ViSenzeAnalytics', '~>0.2.2'
 end
 ...
 ```
